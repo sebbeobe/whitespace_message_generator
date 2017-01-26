@@ -1,6 +1,9 @@
 # Whitespace code message generator
 Python code that takes a string input and returns code written in whitespace that prints the input.
 
+An online whitespace compiler can be found here:
+http://ws2js.luilak.net/interpreter.html
+
 Example
 -------
 'Hello world!'
